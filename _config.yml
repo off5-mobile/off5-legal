@@ -1,0 +1,13 @@
+title: Off5 Legal
+description: Privacy Policy & Terms of Service for Off5
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+timezone: Asia/Tokyo
+permalink: /:categories/:title/
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: page
+      lang: ja
